@@ -10,7 +10,7 @@ public class Main
 		{
 			int b=sc.nextInt();
 			int c=sc.nextInt();
-			if(b<=100 && c<=100)
+			if(b<=50 && c<=50)//20180109
 				System.out.println("inside");
 			else
 				System.out.println("outside");
